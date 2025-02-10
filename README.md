@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhanbal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhanbal" /> </p>
 
 - 👨‍💻 All of my projects are available here.
-- 📄 My portfolio is at [ahmedhanbal.github.io](ahmedhanbal.github.io)
+- 📄 My portfolio is at [ahmedhanbal.github.io](https://ahmedhanbal.github.io)
 
 ### What I bring to the table:
 
