@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Zahid</h1>
-<h3 align="center">A passionate C/C++ developer and a CS Undergrad from Pakistan</h3>
+<h3 align="center">A passionate C/C++,Python developer, and a CS Undergrad from Pakistan.\ Currently learning Full Stack Development with AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhanbal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhanbal" /> </p>
 
@@ -8,7 +8,7 @@
 
 ### What I bring to the table:
 
-- 💻 **Languages**: Proficient in C/C++ for all sorts of programming
+- 💻 **Languages**: Proficient in C/C++ for all sorts of programming and in Python for AI/ML.
 - 🛠️ **Development Tools**: Familiar with CMake for cross-platform build automation and Git for version control
 - 🌐 **Web Technologies**: Experience with HTML5, CSS3, and JavaScript for frontend development
 - 🗄️ **Databases**: Worked with both SQL (MS SQL Server) and NoSQL (MongoDB) databases
