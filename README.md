@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ali Zahid</h1>
-<h3 align="center">A passionate C/C++,Python developer, and a CS Undergrad from Pakistan. Currently learning Full Stack Development with AI</h3>
+<h1 align="center">I'm Ahmed Ali Zahid</h1>
+<h3 align="center">Computer Science undergraduate focused on full-stack web ( MERN) Android (Kotlin ) development. Strong foundation in backend logic, REST APIs design. Additionally experienced in systems programming and Linux/OS administration, which strengthens my debugging, performance optimization, and low-level problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhanbal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhanbal" /> </p>
 
@@ -15,7 +15,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ahmiiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmiiaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedhanbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedhanbal" height="30" width="40" /></a>
 <a href="mailto:ahmed.alizahid14@gmail.com target="blank"><img align="center" src="https://github.com/user-attachments/assets/3b019e4d-a9fc-44d1-828a-daa8d1a74547" alt="ahmedhanbal" height="30" width="40" /></a>
 </p>
